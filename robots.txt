@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://osamasalahesm-cloud.github.io/labour-law/sitemap.xml
